@@ -13,6 +13,7 @@ export default function Home() {
   return (
     <div className="flex flex-col justify-center items-center bg-gray-100 min-h-screen text-center">
       {/* Welcome Message */}
+      <h1> Welcome to Splash App </h1>
       <h1 className="mb-4 font-bold text-gray-800 text-4xl">
         Welcome to Splash App!
       </h1>
